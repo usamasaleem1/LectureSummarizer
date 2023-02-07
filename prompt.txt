@@ -1,4 +1,4 @@
-Write a concise summary of the following lecture notes:
+Write a concise summary of the following lecture notes. Do not start by saying "This lecture..":
 
 
 <<SUMMARY>>
