@@ -1,5 +1,6 @@
 # LectureSummarizer
 Takes in lecture notes [copy paste as PDF] and summarizes them, regardless of the length of the PDF. 
+
 GPT has an input limit, this script bypasses the limit by dividing the text into chunks and processing individual chunks before merging it as one document.
 
 Steps:
