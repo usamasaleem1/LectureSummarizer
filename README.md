@@ -12,3 +12,7 @@ Steps:
 5. Open terminal, navigate to directory, and run "python3 recursively_summarize.py"
 
 Your summarized document will be saved as a text file in this project's folder.
+
+Coming Soon:
+- standalone mac app
+- ability to input powerpoint format
