@@ -1,4 +1,4 @@
-Write a concise summary of the following, as lecture notes. Feel free to use bullet point format sometimes:
+Write a concise summary of the following lecture notes:
 
 
 <<SUMMARY>>
