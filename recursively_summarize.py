@@ -18,7 +18,7 @@ def save_file(content, filepath):
         outfile.write(content)
 
 
-def gpt3_completion(prompt, engine='text-davinci-003', temp=0.6, top_p=1.0, tokens=2000, freq_pen=0.20, pres_pen=0.0, stop=['<<END>>']):
+def gpt3_completion(prompt, engine='gpt-3.5-turbo', temp=0.6, top_p=1.0, tokens=4000, freq_pen=0.20, pres_pen=0.0, stop=['<<END>>']):
     max_retry = 5
     retry = 0
     while True:
